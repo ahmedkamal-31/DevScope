@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:match*",
+      "destination": "http://devscope-api.runasp.net/api/:match*"
+    }
+  ]
+}
