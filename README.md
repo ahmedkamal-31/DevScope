@@ -78,4 +78,4 @@ git clone [https://github.com/ahmedkamal-31/DevScope.git](https://github.com/ahm
 ## 🤝 Author
 **Ahmed Kamal**
 - GitHub: [@ahmedkamal-31](https://github.com/ahmedkamal-31)
-- LinkedIn: [Ahmed Kamal](https://www.linkedin.com/in/ahmedkamal)
+- LinkedIn: [Ahmed Kamal](www.linkedin.com/in/ahmed-kamal3120)
