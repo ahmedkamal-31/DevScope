@@ -2,7 +2,7 @@
 
 **DevScope** is a full-stack web application designed to seamlessly explore GitHub developers' profiles, repositories, and real-time activities. Built with React and .NET 8, it integrates GitHub OAuth to bypass standard API rate limits, ensuring a smooth and continuous user experience.
 
-![DevScope Preview](<img width="2752" height="1536" alt="DevScope" src="https://github.com/user-attachments/assets/ca4d7eeb-5212-4ee1-bc71-602e14fe2ff0" />
+![DevScope Preview]<img width="2752" height="1536" alt="DevScope" src="https://github.com/user-attachments/assets/ca4d7eeb-5212-4ee1-bc71-602e14fe2ff0" />
 
 
 ## 🌐 Live Demo
